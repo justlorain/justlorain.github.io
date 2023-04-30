@@ -27,14 +27,14 @@
             <a href="/" title="Space of Lorain"><img
         class="lazyload logo"
         src="/svg/loading.min.svg"
-        data-src="logo.png"
-        data-srcset="logo.png, logo.png 1.5x, logo.png 2x"
+        data-src="/logo.png"
+        data-srcset="/logo.png, /logo.png 1.5x, /logo.png 2x"
         data-sizes="auto"
-        alt="logo.png"
-        title="logo.png" /></a>
+        alt="/logo.png"
+        title="/logo.png" /></a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/posts/"> POSTS </a><a class="menu-item" href="/tags/"> TAGS </a><a class="menu-item active" href="/categories/"> CATEGORIES </a><a class="menu-item" href="/about/"> ABOUT </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> POSTS </a><a class="menu-item" href="/tags/"> TAGS </a><a class="menu-item active" href="/categories/"> CATAGORIES </a><a class="menu-item" href="/about/"> ABOUT </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
@@ -47,6 +47,9 @@
                         </span>
                     </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a><a href="javascript:void(0);" class="menu-item language" title="Select Language">
+                    <i class="fa fa-globe" aria-hidden="true"></i>                      
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/categories/" selected>English</option><option value="/zh-cn/categories/">简体中文</option></select>
                 </a></div>
         </div>
     </div>
@@ -57,11 +60,11 @@
                 <a href="/" title="Space of Lorain"><img
         class="lazyload logo"
         src="/svg/loading.min.svg"
-        data-src="logo.png"
-        data-srcset="logo.png, logo.png 1.5x, logo.png 2x"
+        data-src="/logo.png"
+        data-srcset="/logo.png, /logo.png 1.5x, /logo.png 2x"
         data-sizes="auto"
-        alt="logo.png"
-        title="logo.png" /></a>
+        alt="/logo.png"
+        title="/logo.png" /></a>
             </div>
             <div class="menu-toggle" id="menu-toggle-mobile">
                 <span></span><span></span><span></span>
@@ -83,9 +86,12 @@
                     <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
                         Cancel
                     </a>
-                </div><a class="menu-item" href="/posts/" title="">POSTS</a><a class="menu-item" href="/tags/" title="">TAGS</a><a class="menu-item" href="/categories/" title="">CATEGORIES</a><a class="menu-item" href="/about/" title="">ABOUT</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                </div><a class="menu-item" href="/posts/" title="">POSTS</a><a class="menu-item" href="/tags/" title="">TAGS</a><a class="menu-item" href="/categories/" title="">CATAGORIES</a><a class="menu-item" href="/about/" title="">ABOUT</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
-            </a></div>
+            </a><a href="javascript:void(0);" class="menu-item" title="Select Language">
+                    <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/categories/" selected>English</option><option value="/zh-cn/categories/">简体中文</option></select>
+                </a></div>
     </div>
 </header><div class="search-dropdown desktop">
         <div id="search-dropdown-desktop"></div>
@@ -93,7 +99,16 @@
     <div class="search-dropdown mobile">
         <div id="search-dropdown-mobile"></div>
     </div><main class="main">
-                <div class="container"><div class="page archive"><h2 class="single-title animate__animated animate__pulse animate__faster">All Categories</h2><div class="categories-card"></div></div></div>
+                <div class="container"><div class="page archive"><h2 class="single-title animate__animated animate__pulse animate__faster">All Categories</h2><div class="categories-card"><div class="card-item">
+                        <div class="card-item-wrapper">
+                            <h3 class="card-item-title">
+                                <a href="/categories/test/">
+                                    <i class="far fa-folder fa-fw" aria-hidden="true"></i>&nbsp;test
+                                </a>
+                            </h3><article class="archive-item">
+                                    <a href="/first_post/" class="archive-item-link">First Post</a>
+                                </article></div>
+                    </div></div></div></div>
             </main><footer class="footer">
         <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://github.com/justlorain" target="_blank">Lorain</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>

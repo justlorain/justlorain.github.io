@@ -4,15 +4,17 @@
         <link>https://justlorain.github.io/</link>
         <description>Space of Lorain</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>justlorain@qq.com (Lorain)</managingEditor>
-            <webMaster>justlorain@qq.com (Lorain)</webMaster><lastBuildDate>Sun, 30 Apr 2023 18:38:02 &#43;0800</lastBuildDate>
+            <webMaster>justlorain@qq.com (Lorain)</webMaster><lastBuildDate>Wed, 04 Mar 2020 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://justlorain.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First Post</title>
     <link>https://justlorain.github.io/first_post/</link>
-    <pubDate>Sun, 30 Apr 2023 18:38:02 &#43;0800</pubDate>
+    <pubDate>Wed, 04 Mar 2020 00:00:00 &#43;0000</pubDate>
     <author>Lorain</author>
     <guid>https://justlorain.github.io/first_post/</guid>
-    <description><![CDATA[First Post This is my first post.]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/logo.png" referrerpolicy="no-referrer">
+            </div>First Post This is my first post.]]></description>
 </item>
 </channel>
 </rss>
