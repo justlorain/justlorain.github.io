@@ -132,7 +132,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # 作者配置
 [author]
-name = "Lorain"
+name = "justlorain"
 email = "justlorain@qq.com"
 link = "https://github.com/justlorain"
 
@@ -416,7 +416,7 @@ rssFullText = false
 # 是否使用目录
 enable = true
 #  是否保持使用文章前面的静态目录
-keepStatic = true
+keepStatic = false
 # 是否使侧边目录自动折叠展开
 auto = true
 #  代码配置

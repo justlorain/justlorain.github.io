@@ -3,16 +3,30 @@
         <title>All Posts - Space of Lorain</title>
         <link>https://justlorain.github.io/posts/</link>
         <description>All Posts | Space of Lorain</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>justlorain@qq.com (Lorain)</managingEditor>
-            <webMaster>justlorain@qq.com (Lorain)</webMaster><lastBuildDate>Wed, 04 Mar 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://justlorain.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First Post</title>
-    <link>https://justlorain.github.io/first_post/</link>
-    <pubDate>Wed, 04 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Lorain</author>
-    <guid>https://justlorain.github.io/first_post/</guid>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>justlorain@qq.com (justlorain)</managingEditor>
+            <webMaster>justlorain@qq.com (justlorain)</webMaster><lastBuildDate>Fri, 05 May 2023 00:52:11 &#43;0800</lastBuildDate><atom:link href="https://justlorain.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache</title>
+    <link>https://justlorain.github.io/dreamemo/</link>
+    <pubDate>Fri, 05 May 2023 00:52:11 &#43;0800</pubDate>
+    <author>justlorain</author>
+    <guid>https://justlorain.github.io/dreamemo/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/logo/logo.png" referrerpolicy="no-referrer">
-            </div>First Post This is my first post.]]></description>
+                <img src="/posts/dreamemo/dreamemo.png" referrerpolicy="no-referrer">
+            </div>Introduction As shown in the title, DREAMEMO is a distributed cache with out-of-the-box, high-scalability, modular-design features.The groupcache implementation is referenced, and re-structured, specific module differentiation is as follows:
+The main modules will be introduced in detail in the design module.
+Quick Start Install Execute following command to install DREAMEMO:
+1 go get github.com/B1NARY-GR0UP/dreamemo Run with standalone mode DREAMEMO provides a function dream.StandAlone used default configuration to help user to start in standalone mode swiftly.]]></description>
+</item>
+<item>
+    <title>PHOS: A Go channel extension with internal handlers</title>
+    <link>https://justlorain.github.io/phos/</link>
+    <pubDate>Fri, 05 May 2023 00:26:25 &#43;0800</pubDate>
+    <author>justlorain</author>
+    <guid>https://justlorain.github.io/phos/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/phos/phos.png" referrerpolicy="no-referrer">
+            </div>Introduction Channels are an essential feature of Golang. Skilled use of channels can make concurrent programming feel natural. This article introduces a channel extension PHOS based on Golang native channels. PHOS allows us to perform specific processing on the data sent to the channel. PHOS also has rich configuration options that can be customized according to different requirements.
+What is PHOS? PHOS is a Golang channel extension with internal handlers and diversified options.]]></description>
 </item>
 </channel>
 </rss>

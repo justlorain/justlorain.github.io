@@ -2,34 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://justlorain.github.io/tags/111/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/categories/binary-web-eco/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://justlorain.github.io/zh-cn/tags/111/"
+                        href="https://justlorain.github.io/zh-cn/categories/binary-web-eco/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://justlorain.github.io/tags/111/"
+                    href="https://justlorain.github.io/categories/binary-web-eco/"
                     /></url><url>
-            <loc>https://justlorain.github.io/tags/222/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://justlorain.github.io/zh-cn/tags/222/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://justlorain.github.io/tags/222/"
-                    /></url><url>
-            <loc>https://justlorain.github.io/tags/333/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://justlorain.github.io/zh-cn/tags/333/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://justlorain.github.io/tags/333/"
-                    /></url><url>
-            <loc>https://justlorain.github.io/categories/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/categories/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://justlorain.github.io/zh-cn/categories/"
@@ -38,16 +20,34 @@
                     hreflang="en"
                     href="https://justlorain.github.io/categories/"
                     /></url><url>
-            <loc>https://justlorain.github.io/first_post/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/dreamemo/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://justlorain.github.io/zh-cn/first_post/"
+                        href="https://justlorain.github.io/zh-cn/dreamemo/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://justlorain.github.io/first_post/"
+                    href="https://justlorain.github.io/dreamemo/"
                     /></url><url>
-            <loc>https://justlorain.github.io/posts/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/tags/go/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://justlorain.github.io/zh-cn/tags/go/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://justlorain.github.io/tags/go/"
+                    /></url><url>
+            <loc>https://justlorain.github.io/tags/opensource/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://justlorain.github.io/zh-cn/tags/opensource/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://justlorain.github.io/tags/opensource/"
+                    /></url><url>
+            <loc>https://justlorain.github.io/posts/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://justlorain.github.io/zh-cn/posts/"
@@ -56,7 +56,16 @@
                     hreflang="en"
                     href="https://justlorain.github.io/posts/"
                     /></url><url>
-            <loc>https://justlorain.github.io/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/tags/programming/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://justlorain.github.io/zh-cn/tags/programming/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://justlorain.github.io/tags/programming/"
+                    /></url><url>
+            <loc>https://justlorain.github.io/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://justlorain.github.io/zh-cn/"
@@ -65,7 +74,7 @@
                     hreflang="en"
                     href="https://justlorain.github.io/"
                     /></url><url>
-            <loc>https://justlorain.github.io/tags/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/tags/</loc><lastmod>2023-05-05T00:52:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://justlorain.github.io/zh-cn/tags/"
@@ -74,14 +83,14 @@
                     hreflang="en"
                     href="https://justlorain.github.io/tags/"
                     /></url><url>
-            <loc>https://justlorain.github.io/categories/test/</loc><lastmod>2020-03-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://justlorain.github.io/phos/</loc><lastmod>2023-05-05T00:26:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://justlorain.github.io/zh-cn/categories/test/"
+                        href="https://justlorain.github.io/zh-cn/phos/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://justlorain.github.io/categories/test/"
+                    href="https://justlorain.github.io/phos/"
                     /></url><url>
             <loc>https://justlorain.github.io/about/</loc><priority>0</priority><xhtml:link
                         rel="alternate"

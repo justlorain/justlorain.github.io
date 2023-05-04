@@ -3,18 +3,28 @@
         <title>Lorain 的空间</title>
         <link>https://justlorain.github.io/zh-cn/</link>
         <description>Space of Lorain</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>justlorain@qq.com (Lorain)</managingEditor>
-            <webMaster>justlorain@qq.com (Lorain)</webMaster><lastBuildDate>Wed, 04 Mar 2020 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>justlorain@qq.com (justlorain)</managingEditor>
+            <webMaster>justlorain@qq.com (justlorain)</webMaster><lastBuildDate>Fri, 05 May 2023 00:52:05 &#43;0800</lastBuildDate>
             <atom:link href="https://justlorain.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>第一篇博客</title>
-    <link>https://justlorain.github.io/zh-cn/first_post/</link>
-    <pubDate>Wed, 04 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Lorain</author>
-    <guid>https://justlorain.github.io/zh-cn/first_post/</guid>
+    <title>DREAMEMO: 一个模块化，高扩展性，开箱即用的分布式缓存</title>
+    <link>https://justlorain.github.io/zh-cn/dreamemo/</link>
+    <pubDate>Fri, 05 May 2023 00:52:05 &#43;0800</pubDate>
+    <author>justlorain</author>
+    <guid>https://justlorain.github.io/zh-cn/dreamemo/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/logo.png" referrerpolicy="no-referrer">
-            </div>第一个博客 这是我的第一个博客。]]></description>
+                <img src="/posts/dreamemo/dreamemo.png" referrerpolicy="no-referrer">
+            </div>简介 如标题所示，DREAMEMO 是一个模块化，高扩展性，开箱即用的分布式缓存，参考了 groupcache 的实现，并对其重新进行架构，具体模块分化如下： 主要模块]]></description>
+</item>
+<item>
+    <title>PHOS: 一个具有内置处理器的 Go channel 扩展</title>
+    <link>https://justlorain.github.io/zh-cn/phos/</link>
+    <pubDate>Fri, 05 May 2023 00:26:25 &#43;0800</pubDate>
+    <author>justlorain</author>
+    <guid>https://justlorain.github.io/zh-cn/phos/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/phos/phos.png" referrerpolicy="no-referrer">
+            </div>前言 Channel 是 Golang 一个非常重要的语言特性，熟练的使用 channel 可以让我们在并发编程中如鱼得水，本文将介绍一个基于 Golang 原生 channel 实现的 channel 扩展 PHOS，通过使用 PHOS 可以]]></description>
 </item>
 </channel>
 </rss>
