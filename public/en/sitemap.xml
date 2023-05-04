@@ -83,4 +83,12 @@
                     hreflang="en"
                     href="https://justlorain.github.io/categories/test/"
                     /></url><url>
-            <loc>https://justlorain.github.io/about/</loc><priority>0</priority></url></urlset>
+            <loc>https://justlorain.github.io/about/</loc><priority>0</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://justlorain.github.io/zh-cn/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://justlorain.github.io/about/"
+                    /></url></urlset>

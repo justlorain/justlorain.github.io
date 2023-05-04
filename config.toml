@@ -16,12 +16,14 @@ hasCJKLanguage = true
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "en"
 
+# 多语言
 [languages]
 [languages.en]
 weight = 1
 title = "Space of Lorain"
 languageCode = "en"
 languageName = "English"
+
 [[languages.en.menu.main]]
 weight = 1
 identifier = "posts"
@@ -30,6 +32,7 @@ post = ""
 name = "POSTS"
 url = "/posts/"
 title = ""
+
 [[languages.en.menu.main]]
 weight = 2
 identifier = "tags"
@@ -38,6 +41,7 @@ post = ""
 name = "TAGS"
 url = "/tags/"
 title = ""
+
 [[languages.en.menu.main]]
 weight = 3
 identifier = "categories"
@@ -46,12 +50,13 @@ post = ""
 name = "CATAGORIES"
 url = "/categories/"
 title = ""
+
 [[languages.en.menu.main]]
 weight = 4
 identifier = "about"
 pre = ""
 post = ""
-name = "ABOUT"
+name = "ABOUT ME"
 url = "/about/"
 title = ""
 
@@ -61,6 +66,7 @@ title = "Lorain 的空间"
 languageCode = "zh-CN"
 languageName = "简体中文"
 hasCJKLanguage = true
+
 [[languages.zh-cn.menu.main]]
 weight = 1
 identifier = "posts"
@@ -69,6 +75,7 @@ post = ""
 name = "文章"
 url = "/posts/"
 title = ""
+
 [[languages.zh-cn.menu.main]]
 weight = 2
 identifier = "tags"
@@ -77,6 +84,7 @@ post = ""
 name = "标签"
 url = "/tags/"
 title = ""
+
 [[languages.zh-cn.menu.main]]
 weight = 3
 identifier = "categories"
@@ -85,14 +93,25 @@ post = ""
 name = "分类"
 url = "/categories/"
 title = ""
+
 [[languages.zh-cn.menu.main]]
 weight = 4
 identifier = "about"
 pre = ""
 post = ""
-name = "关于"
+name = "关于我"
 url = "/about/"
 title = ""
+
+[languages.zh-cn.params.home.profile]
+enable = true
+gravatarEmail = ""
+avatarURL = "/logo/profile.png"
+title = "你好 👋 这里是雨.之.！"
+subtitle = "伟大的理想惟有经过忘我的斗争和牺牲才能实现。"
+typeit = true
+social = true
+disclaimer = ""
 
 # 默认每页列表显示的文章数目
 paginate = 10
@@ -164,13 +183,13 @@ gitRepo = ""
 # ["sha256", "sha384", "sha512", "md5"]
 fingerprint = ""
 #  日期格式
-dateFormat = "2023-04-30"
+dateFormat = "2006-01-02"
 # 网站标题, 用于 Open Graph 和 Twitter Cards
 title = "Space of Lorain"
 # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
 description = "Space of Lorain"
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = ["/logo.png"]
+images = ["/logo/logo.png"]
 
 # 页面头部导航栏配置
 [params.header]
@@ -181,7 +200,7 @@ mobileMode = "auto"
 #  页面头部导航栏标题配置
 [params.header.title]
 #  LOGO 的 URL
-logo = "/logo.png"
+logo = "/logo/logo.png"
 # 标题名称
 name = ""
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -195,7 +214,7 @@ typeit = false
 [params.footer]
 enable = true
 #  自定义内容 (支持 HTML 格式)
-custom = ''
+custom = 'NATURE IS OUR GUIDANCE'
 #  是否显示 Hugo 和主题信息
 hugo = false
 #  是否显示版权信息
@@ -214,7 +233,7 @@ license = '<a rel="license external nofollow noopener noreffer" href="https://cr
 # section 页面每页显示文章数量
 paginate = 20
 # 日期格式 (月和日)
-dateFormat = "04-30"
+dateFormat = "01-02"
 # RSS 文章数目
 rss = 10
 
@@ -223,7 +242,7 @@ rss = 10
 # list 页面每页显示文章数量
 paginate = 20
 # 日期格式 (月和日)
-dateFormat = "04-30"
+dateFormat = "01-02"
 # RSS 文章数目
 rss = 10
 
@@ -274,7 +293,7 @@ enable = true
 # Gravatar 邮箱，用于优先在主页显示的头像
 gravatarEmail = ""
 # 主页显示头像的 URL
-avatarURL = "/profile.png"
+avatarURL = "/logo/profile.png"
 #  主页显示的网站标题 (支持 HTML 格式)
 title = "Hello there 👋 This is Lorain!"
 # 主页显示的网站副标题 (允许 HTML 格式)

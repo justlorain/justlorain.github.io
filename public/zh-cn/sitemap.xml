@@ -82,4 +82,13 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://justlorain.github.io/zh-cn/first_post/"
+                    /></url><url>
+            <loc>https://justlorain.github.io/zh-cn/about/</loc><priority>0</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://justlorain.github.io/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://justlorain.github.io/zh-cn/about/"
                     /></url></urlset>
