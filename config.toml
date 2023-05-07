@@ -106,7 +106,7 @@ title = ""
 [languages.zh-cn.params.home.profile]
 enable = true
 gravatarEmail = ""
-avatarURL = "/logo/profile.png"
+avatarURL = "/logo/avatar.png"
 title = "你好 👋 这里是雨.之.！"
 subtitle = "伟大的理想惟有经过忘我的斗争和牺牲才能实现。"
 typeit = true
@@ -293,7 +293,7 @@ enable = true
 # Gravatar 邮箱，用于优先在主页显示的头像
 gravatarEmail = ""
 # 主页显示头像的 URL
-avatarURL = "/logo/profile.png"
+avatarURL = "/logo/avatar.png"
 #  主页显示的网站标题 (支持 HTML 格式)
 title = "Hello there 👋 This is Lorain!"
 # 主页显示的网站副标题 (允许 HTML 格式)

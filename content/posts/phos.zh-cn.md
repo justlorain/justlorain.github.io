@@ -5,7 +5,7 @@ draft: false
 tags: ["go", "opensource", "programming"]
 categories: ["BINARY WEB ECO"]
 featuredImage: "/posts/phos/phos.png"
-featuredImagePreview: "/phos/phos.png"
+featuredImagePreview: "/posts/phos/phos.png"
 ---
 
 ## 前言
